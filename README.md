@@ -6,7 +6,7 @@
 
 ## ✨ Resumo ✨
   
-🧑 Tenho 17 anos
+🧑 Tenho 22 anos
 <br>
 🛠 Trabalhando em projetos backEnd
 <br>
