@@ -33,6 +33,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 
 - 🌱 learning：
  ![Mobile](https://img.shields.io/badge/-mobile-green?style=flat-circle&logo=android)
+![Postgres](https://img.shields.io/badge/PostgreSQL-c5c5c5?style=flat-circle&logo=PostgreSQL)
 
 ## 🤔 Do you want to help?
 
