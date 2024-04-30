@@ -30,7 +30,6 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 
 - 🎲 Database：
  ![Postgres](https://img.shields.io/badge/PostgreSQL-c5c5c5?style=flat-circle&logo=PostgreSQL)
- ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
 
 - 🌱 learning：
  ![Mobile](https://img.shields.io/badge/-mobile-green?style=flat-circle&logo=android)
