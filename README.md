@@ -17,9 +17,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
  ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) 
  ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-circle&logo=bootstrap&logoColor=white)
- ![VueJS](https://img.shields.io/badge/-VueJS-blue?style=flat-circle&logo=Vuetify)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 
 - 🛠️ Tools：
   ![VS Code](https://img.shields.io/badge/vscode-gray.svg?logo=visualstudiocode)
