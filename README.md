@@ -17,7 +17,8 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
  ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) 
  ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
-	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - 🛠️ Tools：
   ![VS Code](https://img.shields.io/badge/vscode-gray.svg?logo=visualstudiocode)
@@ -25,6 +26,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
   ![Linux](https://img.shields.io/badge/Linux-gray?style=flat-circle&logo=Linux)
   ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub)
   ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 - 🎲 Database：
  ![Postgres](https://img.shields.io/badge/PostgreSQL-c5c5c5?style=flat-circle&logo=PostgreSQL)
